@@ -1,4 +1,4 @@
-package com.example.hellokotlin2
+package android.study.kotlin
 
 fun main(){
     val nums = listOf(1, 2, 3, 4, 5)

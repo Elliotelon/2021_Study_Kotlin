@@ -1,4 +1,4 @@
-package com.example.hellokotlin2
+package android.study.kotlin
 
 fun main(){
     /*

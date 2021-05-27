@@ -1,4 +1,4 @@
-package com.example.hellokotlin2
+package android.study.kotlin
 
 /*
     Lambda expression (람다 표현식)
